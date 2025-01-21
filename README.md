@@ -17,10 +17,24 @@ I thrive on learning new technologies, tackling complex challenges, and collabor
 ---
 
 ### 💻 Technical Skills
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap
-- **Backend:** Python, Django
-- **UX Design:** Figma, Balsamiq
-- **Tools:** Git, GitHub, Agile methodologies
+- **Frontend:** [![HTML](https://img.shields.io/badge/Code-HTML5-orange?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) , [![CSS](https://img.shields.io/badge/Code-CSS3-blue?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS), [![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) , [![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-purple?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) 
+- **Backend:** [![Python](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python&logoColor=white)](https://www.python.org/) ,[![Django](https://img.shields.io/badge/Framework-Django-green?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/)
+- **UX Design:** [![Figma](https://img.shields.io/badge/UX%20Design-Figma-red?style=flat&logo=figma&logoColor=white)](https://www.figma.com/) , [![Balsamiq](https://img.shields.io/badge/UX%20Design-Balsamiq-grey?style=flat&logo=balsamiq&logoColor=white)](https://balsamiq.com/) 
+- **Tools:** [![Git](https://img.shields.io/badge/Tools-Git-orange?style=flat&logo=git&logoColor=white)](https://git-scm.com/) , [![GitHub](https://img.shields.io/badge/Tools-GitHub-lightgrey?style=flat&logo=github&logoColor=white)](https://github.com/) , Agile methodologies
+
+  ### 💻 Technical Skills
+
+ 
+  
+
+ 
+  
+ 
+ 
+ 
+ 
+ 
+
 
 ---
 
