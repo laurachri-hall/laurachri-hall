@@ -61,7 +61,6 @@ I'm focused on:
 ### 📊 GitHub Stats
 ![Laura's GitHub Stats](https://github-readme-stats.vercel.app/api?username=laurachri-hall&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laurachri-hall&layout=compact&theme=radical)  
-[![Laura's Activity Graph](https://activity-graph.herokuapp.com/graph?username=laurachri-hall&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -83,5 +82,5 @@ I'm always eager to collaborate, learn, and contribute to meaningful projects. F
 
 ---
 *"Empowering individuals through technology and learning, one project at a time."* 🚀
-![Profile Views](https://komarev.com/ghpvc/?username=laurachri-hall&color=blueviolet&style=flat)
+
 
