@@ -4,7 +4,9 @@
 📍 Based in Preston, UK  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-hall-dev) 
-[![GitHub](https://img.shields.io/badge/GitHub-Visit-lightgrey?style=flat&logo=github&logoColor=white)](https://github.com/laurachri-hall) 
+[![GitHub](https://img.shields.io/badge/GitHub-Visit-lightgrey?style=flat&logo=github&logoColor=white)](https://github.com/laurachri-hall)
+![Profile Views](https://komarev.com/ghpvc/?username=laurachri-hall&color=blueviolet&style=flat)
+
 
 
 ---
@@ -28,21 +30,6 @@ I thrive on learning new technologies, tackling complex challenges, and collabor
 - **AI:**
 [![Artificial Intelligence](https://img.shields.io/badge/AI-Artificial%20Intelligence-blueviolet?style=flat&logo=openai&logoColor=white)](https://openai.com/)  
  
-
-
-
- 
-  
-
- 
-  
- 
- 
- 
- 
- 
-
-
 ---
 
 ### 🔍 Portfolio Projects
@@ -71,6 +58,18 @@ I'm focused on:
 
 ---
 
+### 📊 GitHub Stats
+![Laura's GitHub Stats](https://github-readme-stats.vercel.app/api?username=laurachri-hall&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laurachri-hall&layout=compact&theme=radical)  
+[![Laura's Activity Graph](https://activity-graph.herokuapp.com/graph?username=laurachri-hall&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 🎖️ Achievements
+[![Trophies](https://github-profile-trophy.vercel.app/?username=laurachri-hall&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ### 📚 Interests
 - **LitRPG Books:** Always looking for book recommendations (any genre accepted!)!
 - **Board Games & Tabletop RPGs:** A passionate (board) gamer and story enthusiast.
@@ -84,3 +83,5 @@ I'm always eager to collaborate, learn, and contribute to meaningful projects. F
 
 ---
 *"Empowering individuals through technology and learning, one project at a time."* 🚀
+![Profile Views](https://komarev.com/ghpvc/?username=laurachri-hall&color=blueviolet&style=flat)
+
