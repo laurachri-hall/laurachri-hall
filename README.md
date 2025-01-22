@@ -38,9 +38,10 @@ I thrive on learning new technologies, tackling complex challenges, and collabor
 
 <p align="center">
     <img src="jan_badge.png" 
-         alt="January 2025 'Code to Protect' Hackathon: 2nd Place Badge" width="1300">
-  </a>
+         alt="January 2025 'Code to Protect' Hackathon: 2nd Place Badge" 
+         style="width: 80%; max-width: 1000px;">
 </p>
+
 
 - **[Merry Taskmas](https://github.com/laurachri-hall/merrytaskmas):**  
   A holiday planner with CRUD functionality, built with Python and Django during a hackathon.
