@@ -35,6 +35,9 @@ I thrive on learning new technologies, tackling complex challenges, and collabor
 ### 🔍 Portfolio Projects
 - **[Chain Breakers](https://github.com/trxdave/chain-breaker1):**  
   A website built for a hackathon that focuses on interactive trafficking scenarios designed to raise awareness and educate users about the warning signs of human trafficking.
+
+[![Badge Title](https://api.eu.badgr.io/public/assertions/8or219tlQmyrfG8tB2lyTA/image)](https://api.eu.badgr.io/public/assertions/8or219tlQmyrfG8tB2lyTA?identity__email=laura%40allthehalls.com)
+
   
 - **[Merry Taskmas](https://github.com/laurachri-hall/merrytaskmas):**  
   A holiday planner with CRUD functionality, built with Python and Django during a hackathon.
