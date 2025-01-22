@@ -37,10 +37,9 @@ I thrive on learning new technologies, tackling complex challenges, and collabor
   A website built for a hackathon that focuses on interactive trafficking scenarios designed to raise awareness and educate users about the warning signs of human trafficking.
 
 <p align="center">
-  <a href="https%3A%2F%2Fapi.eu.badgr.io%2Fpublic%2Fassertions%2F8or219tlQmyrfG8tB2lyTA%3Fidentity__email%3Dlaura%2540allthehalls.com">
-    <img src="https://api.eu.badgr.io/public/assertions/8or219tlQmyrfG8tB2lyTA/image" 
+    <img src="jan_badge.png" 
          alt="January 2025 'Code to Protect' Hackathon: 2nd Place Badge" 
-         width="120" height="120">
+         width="300">
   </a>
 </p>
 
