@@ -1,4 +1,4 @@
-# 👋 Hiya, I'm Laura!
+# 👋 Hiya,  I'm Laura!
 
 🚀 **Junior Full-Stack Software Developer**  
 📍 Based in Preston, UK  
@@ -72,7 +72,7 @@ I'm focused on:
 ### 📚 Interests
 - **LitRPG Books:** Always looking for book recommendations (any genre accepted!)!
 - **Board Games & Tabletop RPGs:** A passionate (board) gamer and story enthusiast.
-- **Sports:** Enjoy playing badminton and swimming.
+- **Sports:** Enjoy badminton and swimming.
 
 
 ---
