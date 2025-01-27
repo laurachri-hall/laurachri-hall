@@ -33,7 +33,7 @@ I thrive on learning new technologies, tackling complex challenges, and collabor
 <p align="center">
     <img src="github-foundations.png" 
          alt="GitHub Foundations Badge" 
-         style="width: 50%; max-width: 1000px;">
+         style="width: 30%; max-width: 1000px;">
 </p>
 
  
