@@ -28,7 +28,14 @@ I thrive on learning new technologies, tackling complex challenges, and collabor
 [![Accessibility](https://img.shields.io/badge/Accessibility-WCAG%202.1-blueviolet?style=flat&logo=accessibility&logoColor=white)](https://www.w3.org/WAI/standards-guidelines/wcag/) , 
 [![Responsive Design](https://img.shields.io/badge/Responsive%20Design-Mobile--First-blue?style=flat&logo=responsive-design&logoColor=white)](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design) , [![ARIA](https://img.shields.io/badge/ARIA%20Roles-Accessible-yellowgreen?style=flat&logo=aria&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA)
 - **AI:**
-[![Artificial Intelligence](https://img.shields.io/badge/AI-Artificial%20Intelligence-blueviolet?style=flat&logo=openai&logoColor=white)](https://openai.com/)  
+[![Artificial Intelligence](https://img.shields.io/badge/AI-Artificial%20Intelligence-blueviolet?style=flat&logo=openai&logoColor=white)](https://openai.com/)
+
+<p align="center">
+    <img src="github-foundations.png" 
+         alt="GitHub Foundations Badge" 
+         style="width: 50%; max-width: 1000px;">
+</p>
+
  
 ---
 
